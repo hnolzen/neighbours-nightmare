@@ -4,6 +4,8 @@ weight: 4
 header_menu: true
 ---
 
+E-Mail: tba.  
+
 Lass uns in Kontakt treten!
 
-E-Mail: tba.
+![Contact](images/contact.jpg)
