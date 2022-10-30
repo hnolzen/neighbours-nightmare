@@ -14,3 +14,5 @@ header_menu: true
 05.06.2022, 2nd Monarch Hill Festival, Leipzig.   
 18.09.2020, 1st Monarch Hill Festival, Leipzig.  
 11.10.2019, Lindy Hop Workshop "From Dusk Till Dawn", Leipzig.
+
+![Events](images/events.jpg)
