@@ -1,8 +1,6 @@
 ---
-title: "Welcome"
+title: "Willkommen"
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vehicula turpis nec arcu cursus, ac faucibus felis tempor. Donec molestie arcu eu pretium accumsan. Phasellus urna nisi, volutpat pharetra orci vel, feugiat sollicitudin diam. Phasellus dolor tortor, feugiat a ipsum id, gravida volutpat urna. Nam dictum nulla ac nisi aliquam ultricies. Nam tempus eget lorem vitae vulputate.
-
-Nulla aliquet, nisl pulvinar fermentum ultricies, turpis purus ultricies lorem, ut faucibus arcu nisl in tellus. Integer eu augue auctor, fringilla nunc ut, finibus eros. Curabitur est lectus, ultricies id blandit at, malesuada et ipsum. Suspendisse potenti. Quisque euismod sapien arcu, vel sollicitudin ipsum dignissim nec.
+Neighbour's Nightmare ist - wie der Name schon vermuten lässt - ist nichts für empfindliche Ohren oder schwache Nerven: Es handelt sich selbstverständlich um eine Swing-Band! Die Leipziger:innen lernten sich größtenteils in der Swingtanzszene kennen, weshalb vor allem tanzbare Songs gecovert werden. Besonders versiert sind einige Bandmitglieder auf dem Gebiet der unfreiwilligen Improvisation, was bei den Proben immer wieder für gute Stimmung sorgt. Selbst die Songs zu spielen, zu denen die Bandmitglieder normalerweise über die Tanzfläche bouncen, ist ebenso herausfordernd wie unterhaltsam. Der einzige Nachteil: Man kann nur begrenzt zur eigenen Musik tanzen. Aus diesem Grund hoffen Neighbour's Nightmare auf ein tanzwilliges Publikum und trotz allem zufriedene Nachbarn.
