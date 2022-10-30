@@ -1,19 +1,16 @@
 ---
-title: "Next events"
+title: "Auftritte"
 weight: 2
 header_menu: true
 ---
 
-tba
+
+2023: tba
 
 ---
 
-## tba
+### Vergangene Auftritte
 
 tba
 
----
 
-## tba2
-
-tba2
