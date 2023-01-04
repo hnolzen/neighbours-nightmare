@@ -4,7 +4,7 @@ weight: 4
 header_menu: true
 ---
 
-E-Mail: tba.  
+E-Mail: neighboursnightmare (at) posteo (punkt) de
 
 Lass uns in Kontakt treten!
 
