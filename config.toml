@@ -10,8 +10,7 @@ theme = "hugo-scroll"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
-    # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "Copyright 2022 Neighbours Nightmare"
+    copyright = "Copyright 2022-2023 Neighbours Nightmare"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "tba."
