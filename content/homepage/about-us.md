@@ -9,7 +9,7 @@ header_menu: true
 Anne (Klarinette, Bassklarinette)  
 Eli (Gesang)  
 Frank (Bass)  
-Henning (Gitarre, Xylophon)  
+Henning (Gitarre)  
 Johannes (Schlagzeug, Gitarre)  
 Lara (Saxophon)  
 Maria (Gesang)  
