@@ -6,6 +6,7 @@ header_menu: true
 
 12.05.2023, Balboa Workshop "Big Bal Theory", Leipzig  
 08.07.2023, Lene-Voigt-Park, Leipzig.  
+09.07.2023, Botanischer Garten, Leipzig
 
 ### Vergangene Auftritte
 
