@@ -5,12 +5,10 @@ header_menu: true
 ---
 
 #### Aktuelle Besetzung
-
 Anne (Klarinette, Bassklarinette)  
 Eli (Gesang)  
 Frank (Bass)  
 Henning (Gitarre)  
 Johannes (Schlagzeug, Gitarre)  
-Lara (Saxophon)  
+Lara (Altsaxophon)  
 Maria (Gesang)  
-
