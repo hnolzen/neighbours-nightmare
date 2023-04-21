@@ -1,5 +1,5 @@
 ---
 header_image: ""
-header_headline: "Neighbours Nightmare"
-header_subheadline: "Hi, wir sind Neighbours Nightmare - eine Swingband aus Leipzig"
+header_headline: "Neighbour's Nightmare"
+header_subheadline: "Hi, wir sind Neighbour's Nightmare - eine Swingband aus Leipzig"
 ---
