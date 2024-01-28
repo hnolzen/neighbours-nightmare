@@ -6,7 +6,7 @@ header_menu: true
 
 
 ### Vergangene Auftritte
-09.07.2023, Botanischer Garten, Leipzig
+09.07.2023, Botanischer Garten, Leipzig  
 08.07.2023, Lene-Voigt-Park, Leipzig  
 04.06.2023, Westbahnhof, Leipzig  
 12.05.2023, Balboa Workshop "Big Bal Theory", Leipzig  
