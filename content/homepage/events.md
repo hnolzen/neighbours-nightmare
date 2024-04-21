@@ -4,7 +4,7 @@ weight: 2
 header_menu: true
 ---
 
-23.05.2024, tba., Leipzig  
+23.05.2024, 20 Uhr, Noels Ballroom, Leipzig  
 02.06.2024, 16 Uhr, Lene-Voigt-Park, Leipzig  
 28.07.2024, 15 Uhr, Botanischer Garten, Leipzig  
 
