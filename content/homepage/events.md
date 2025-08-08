@@ -4,11 +4,11 @@ weight: 2
 header_menu: true
 ---
 
-Aktuell sind keine Auftritte geplant.
-
-### Vergangene Auftritte
-28.07.2024, 15 Uhr, Botanischer Garten, Leipzig  
-23.05.2024, 20 Uhr, Noels Ballroom, Leipzig  
+### Auftritte
+18.09.2025, 18 Uhr, Swing'n'Sunset, Eisengießerei, Leipzig
+18.05.2025, Lene-Voigt-Park, Leipzig
+28.07.2024, Botanischer Garten, Leipzig  
+23.05.2024, Noels Ballroom, Leipzig  
 09.07.2023, Botanischer Garten, Leipzig  
 08.07.2023, Lene-Voigt-Park, Leipzig  
 04.06.2023, Westbahnhof, Leipzig  
