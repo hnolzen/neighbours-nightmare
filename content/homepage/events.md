@@ -5,8 +5,12 @@ header_menu: true
 ---
 
 ### Auftritte
-18.09.2025, 18 Uhr, Swing'n'Sunset, Eisengießerei, Leipzig
-18.05.2025, Lene-Voigt-Park, Leipzig
+30.08.2026, Lene-Voigt-Park, Leipzig  
+04.07.2026, BasaMo Insel, Leipzig  
+10.05.2026, Swing Brunch, Swingconnection-Leipzig e.V., Leipzig  
+02.04.2026, Noels Ballroom, Leipzig  
+18.09.2025, Swing'n'Sunset, Eisengießerei, Leipzig  
+18.05.2025, Lene-Voigt-Park, Leipzig  
 28.07.2024, Botanischer Garten, Leipzig  
 23.05.2024, Noels Ballroom, Leipzig  
 09.07.2023, Botanischer Garten, Leipzig  
