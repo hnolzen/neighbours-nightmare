@@ -4,7 +4,7 @@ weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}} [neighboursnightmare@posteo.de](mailto:neighboursnightmare@posteo.de)
+{{<icon class="fa fa-envelope">}} [mailadresse](mailto:mailadresse)
 
 Lass uns in Kontakt treten!
 
